@@ -9,3 +9,10 @@ https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EYjkgVZuUv5Hs
 - 
 https://github.com/elidianaandrade/dio-lab-open-source
 https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EakzpKFKi1lJihVQn7sabE8BG7BzYVNs1p6rVDJanJcgdQ?e=S41t26
+
+#MongoDB
+Atlas mongo
+https://www.luiztools.com.br/post/padroes-para-modelagem-de-dados-documentos-em-mongodb/
+
+#Redis
+redis try
